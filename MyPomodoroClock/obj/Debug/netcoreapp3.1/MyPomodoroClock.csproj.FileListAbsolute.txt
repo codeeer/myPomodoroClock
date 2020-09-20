@@ -13,3 +13,23 @@ D:\Workspaces\MyPomodoroClock\MyPomodoroClock\bin\Debug\netcoreapp3.1\MyPomodoro
 D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.dll
 D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.pdb
 D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.genruntimeconfig.cache
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\MyPomodoroClock.exe
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\MyPomodoroClock.deps.json
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\MyPomodoroClock.runtimeconfig.json
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\MyPomodoroClock.runtimeconfig.dev.json
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\MyPomodoroClock.dll
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\MyPomodoroClock.pdb
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.csprojAssemblyReference.cache
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.Form1.resources
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.csproj.GenerateResource.cache
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.AssemblyInfoInputs.cache
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.AssemblyInfo.cs
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.csproj.CoreCompileInputs.cache
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.dll
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.pdb
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\obj\Debug\netcoreapp3.1\MyPomodoroClock.genruntimeconfig.cache
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\Bike Horn.wav
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\setup-icon.ico
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\Please.wav
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\Red Alert.wav
+D:\Workspaces\MyPomodoroClockGithub\MyPomodoroClock\bin\Debug\netcoreapp3.1\sms-alert-2.wav

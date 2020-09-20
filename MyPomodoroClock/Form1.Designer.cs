@@ -62,7 +62,6 @@
             this.calismaSuresiComboBox.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.calismaSuresiComboBox.FormattingEnabled = true;
             this.calismaSuresiComboBox.Items.AddRange(new object[] {
-            "2-DAKİKA",
             "25-DAKİKA",
             "30-DAKİKA",
             "35-DAKİKA",
@@ -90,7 +89,6 @@
             this.molaComboBox.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.molaComboBox.FormattingEnabled = true;
             this.molaComboBox.Items.AddRange(new object[] {
-            "1-DAKİKA",
             "5-DAKİKA",
             "10-DAKİKA",
             "15-DAKİKA",

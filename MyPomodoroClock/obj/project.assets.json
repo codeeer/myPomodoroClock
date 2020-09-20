@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspaces\\MyPomodoroClock\\MyPomodoroClock\\MyPomodoroClock.csproj",
+      "projectUniqueName": "D:\\Workspaces\\MyPomodoroClockGithub\\MyPomodoroClock\\MyPomodoroClock.csproj",
       "projectName": "MyPomodoroClock",
-      "projectPath": "D:\\Workspaces\\MyPomodoroClock\\MyPomodoroClock\\MyPomodoroClock.csproj",
+      "projectPath": "D:\\Workspaces\\MyPomodoroClockGithub\\MyPomodoroClock\\MyPomodoroClock.csproj",
       "packagesPath": "C:\\Users\\Hacker\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspaces\\MyPomodoroClock\\MyPomodoroClock\\obj\\",
+      "outputPath": "D:\\Workspaces\\MyPomodoroClockGithub\\MyPomodoroClock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

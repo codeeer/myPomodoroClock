@@ -47,7 +47,7 @@ namespace MyPomodoroClock
 
             myTimer.Stop();
             //     SystemSounds.Exclamation.Play();
-            SoundPlayer simpleSound = new SoundPlayer(@"D:\Workspaces\MyPomodoroClock\MyPomodoroClock\Bike Horn.wav");
+            SoundPlayer simpleSound = new SoundPlayer(@"Bike Horn.wav");
             simpleSound.Play();
 
             notifyIcon1.Visible = true;
@@ -72,7 +72,7 @@ namespace MyPomodoroClock
             EventArgs myEventArgs)
         {
             molaTimer.Stop();
-            SoundPlayer simpleSound = new SoundPlayer(@"D:\Workspaces\MyPomodoroClock\MyPomodoroClock\Red Alert.wav");
+            SoundPlayer simpleSound = new SoundPlayer(@"Red Alert.wav");
             simpleSound.Play();
           //  SystemSounds.Hand.Play();
             notifyIcon1.Visible = true;

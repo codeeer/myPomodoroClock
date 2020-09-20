@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rPQPydcFKrEzp66GR/UFXjlf1nXMdtPwCxoHVf7UbirdLFRGfXjc406IwTR16k6qY8WEFaMKVIUBsFkT46xg9Q==",
+  "dgSpecHash": "eFOLjFTy/D4wiNFTlvirxac8II0/hF/xJlJviFEZPPSoLNU5p4anPPi0K4DBwDTTf4s3HSnhvcb1oEcU36qWeA==",
   "success": true,
-  "projectFilePath": "D:\\Workspaces\\MyPomodoroClock\\MyPomodoroClock\\MyPomodoroClock.csproj",
+  "projectFilePath": "D:\\Workspaces\\MyPomodoroClockGithub\\MyPomodoroClock\\MyPomodoroClock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
