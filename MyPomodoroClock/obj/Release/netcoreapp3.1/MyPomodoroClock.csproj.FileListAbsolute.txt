@@ -1,0 +1,14 @@
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\bin\Release\netcoreapp3.1\MyPomodoroClock.exe
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\bin\Release\netcoreapp3.1\MyPomodoroClock.deps.json
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\bin\Release\netcoreapp3.1\MyPomodoroClock.runtimeconfig.json
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\bin\Release\netcoreapp3.1\MyPomodoroClock.runtimeconfig.dev.json
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\bin\Release\netcoreapp3.1\MyPomodoroClock.dll
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\bin\Release\netcoreapp3.1\MyPomodoroClock.pdb
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.Form1.resources
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.csproj.GenerateResource.cache
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.AssemblyInfoInputs.cache
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.AssemblyInfo.cs
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.csproj.CoreCompileInputs.cache
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.dll
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.pdb
+D:\Workspaces\MyPomodoroClock\MyPomodoroClock\obj\Release\netcoreapp3.1\MyPomodoroClock.genruntimeconfig.cache
